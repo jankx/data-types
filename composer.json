@@ -1,0 +1,15 @@
+{
+    "name": "jankx/data-types",
+    "description": "WordPress data types such as: custom post type, taxonoxy, metas,etc",
+    "type": "library",
+    "require": {
+        "jankx/fields": "dev-master"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Puleeno Nguyen",
+            "email": "puleeno@gmail.com"
+        }
+    ]
+}
