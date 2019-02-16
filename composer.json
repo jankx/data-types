@@ -3,7 +3,7 @@
   "description": "WordPress data types such as: custom post type, taxonoxy, metas,etc",
   "type": "library",
   "require": {
-    "jankx/fields": "dev-master"
+    "jankx/fields": "dev-dev"
   },
   "license": "MIT",
   "minimum-stability": "dev",
