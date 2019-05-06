@@ -12,5 +12,8 @@
       "name": "Puleeno Nguyen",
       "email": "puleeno@gmail.com"
     }
-  ]
+  ],
+  "autoload": {
+    "Jankx\\DataTypes\\": "src/"
+  }
 }
