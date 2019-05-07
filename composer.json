@@ -14,6 +14,8 @@
     }
   ],
   "autoload": {
-    "Jankx\\DataTypes\\": "src/"
+    "psr-4": {
+      "Jankx\\DataTypes\\": "src/"
+    }
   }
 }
