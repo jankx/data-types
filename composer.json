@@ -1,5 +1,5 @@
 {
-  "name": "jankx/data-types",
+  "name": "jankx/data-type",
   "description": "WordPress data types such as: custom post type, taxonoxy, metas,etc",
   "type": "library",
   "require": {
@@ -15,7 +15,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "Jankx\\DataTypes\\": "src/"
+      "Jankx\\DataType\\": "src/"
     }
   }
 }
